@@ -1,0 +1,7 @@
+# Minimal input example for the quickstart
+periods: 10
+rate_per_period: 0.06
+target_dscr: 1.30
+max_gearing: 0.7
+project_cost: 1000.0
+cfads: [0, 120, 140, 160, 180, 180, 170, 160, 150, 140]
